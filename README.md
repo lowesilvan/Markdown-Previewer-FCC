@@ -2,7 +2,7 @@
 
 ## Preview
 
-! [preview] (preview1.png)
+![preview](preview1.png)
 
 ### Getting Started with Create React App
 
