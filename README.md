@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Project was deployed at [https://lowesilvan.github.io/Markdown-Previewer-FCC/](https://lowesilvan.github.io/Markdown-Previewer-FCC/)
+
+## Preview
+
+! [preview] (preview1.png)
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
